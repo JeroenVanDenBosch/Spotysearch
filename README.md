@@ -1,4 +1,6 @@
 # Spotysearch
+
+#### SearchUsersWithPlaylistsContaining ####
 Powershell script that performs OSINT queries on Spotify.
 Still very much in development. Functionallies will be added and also user-friendlyness.
 
@@ -14,3 +16,4 @@ v0.03 (20250507)<br>
 
 ![screenshot_v002](https://github.com/JeroenVanDenBosch/Spotysearch/blob/main/spotysearch_output_v002.png)
 
+#### SearchUsers ####
