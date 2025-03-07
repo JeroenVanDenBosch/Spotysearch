@@ -23,8 +23,8 @@ if (Test-Path $asciiArtPath) {
 }
 
 # Spotify API credentials
-$clientId = "4cf828fa5ba441ddb1cd53670dc0c552"
-$clientSecret = "b852dc241c0c47bfa3af39729dfdf5a7"
+$clientId = "2"
+$clientSecret = "f5a7"
 
 # Get access token
 $tokenUrl = "https://accounts.spotify.com/api/token"
